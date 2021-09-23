@@ -1,0 +1,157 @@
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\bin\Debug\18752_181065.exe.config
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\bin\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\bin\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\bin\Debug\MySql.Data.dll
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\bin\Debug\MySql.Data.xml
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\18752_181065.csprojResolveAssemblyReference.cache
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.Cache
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Aula 5 Banco\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+F:\Backups\18752_181065\18752_181065\bin\Debug\18752_181065.exe.config
+F:\Backups\18752_181065\18752_181065\bin\Debug\18752_181065.exe
+F:\Backups\18752_181065\18752_181065\bin\Debug\18752_181065.pdb
+F:\Backups\18752_181065\18752_181065\bin\Debug\MySql.Data.xml
+F:\Backups\18752_181065\18752_181065\obj\Debug\18752_181065.csprojResolveAssemblyReference.cache
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+F:\Backups\18752_181065\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.Cache
+F:\Backups\18752_181065\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+F:\Backups\18752_181065\18752_181065\obj\Debug\18752_181065.exe
+F:\Backups\18752_181065\18752_181065\obj\Debug\18752_181065.pdb
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe.config
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.pdb
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.dll
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.xml
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csprojResolveAssemblyReference.cache
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.Cache
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.exe
+E:\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe.config
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.dll
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.xml
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csprojResolveAssemblyReference.cache
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.Cache
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmProfessores.resources
+D:\Desenvolvimentos De Sistemas\Windows Form\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmGradeCurricular.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe.config
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.dll
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.xml
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csprojResolveAssemblyReference.cache
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmGradeCurricular.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmProfessores.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.Cache
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmBoletim.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe.config
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.pdb
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.dll
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.xml
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csprojResolveAssemblyReference.cache
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmBoletim.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmGradeCurricular.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmProfessores.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.Cache
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.exe
+D:\Desenvolvimentos De Sistemas\Backup\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.pdb
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe.config
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.exe
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\18752_181065.pdb
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\bin\Debug\MySql.Data.xml
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csprojAssemblyReference.cache
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmBoletim.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmGradeCurricular.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.FrmProfessores.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.cache
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.csproj.CopyComplete
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.exe
+C:\Users\kaioe\Desktop\Projeto de Desenvolvimento de Sistemas\18752_181065\obj\Debug\18752_181065.pdb
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\bin\Debug\18752_181065.exe.config
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\bin\Debug\18752_181065.exe
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\bin\Debug\18752_181065.pdb
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\bin\Debug\MySql.Data.xml
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\18752_181065.csprojAssemblyReference.cache
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmAlunos.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmBoletim.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmCidades.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCidade.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmConsultaCurso.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmCursos.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmDisciplinas.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmGradeCurricular.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmMenu.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.FrmProfessores.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\_18752_181065.Properties.Resources.resources
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\18752_181065.csproj.GenerateResource.cache
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\18752_181065.csproj.CoreCompileInputs.cache
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\18752_181065.csproj.CopyComplete
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\18752_181065.exe
+C:\Users\Rimuru\Desktop\Nova pasta\projeto-desenvolvimento-sistemas\18752_181065\obj\Debug\18752_181065.pdb
